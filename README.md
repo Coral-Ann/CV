@@ -1,6 +1,6 @@
 ## Coral Baker
 
-[Skills](#skills) | [Experience](#experience) | [Projects](#projects) | [Education](#education) | [Hobbies](#hobbies) | [CodeWars](https://www.codewars.com/users/Coral-Ann) | [Art](https://www.coralbakerart.com) | [Blog]
+[Skills](#skills) | [Experience](#experience) | [Projects](#projects) | [Education](#education) | [Hobbies](#hobbies) | [CodeWars](https://www.codewars.com/users/Coral-Ann) | [Art](https://www.coralbakerart.com)
 
 Having experience in IT System administration, development, and technical support, I am confident engaging with end-users, customers, and developers alike. I continue to work on my technical experience towards software development, currently as a [Makers Academy](https://makers.tech/about-us/) student.
 
@@ -46,28 +46,28 @@ Having experience in IT System administration, development, and technical suppor
 
 ## Education
 
-**Makers Academy** (2021 - present)
+### **Makers Academy** (2021 - present)
 16-week intensive development bootcamp
 
-**Leeds College of Art** (2010 - 2013)
+### **Leeds College of Art** (2010 - 2013)
 Foundation Degree, Digital Film, Games, and Animation
 
-**Isle of Man College** (2009 - 2010)
+### **Isle of Man College** (2009 - 2010)
 B Tech National Diploma in Art and Design
 
-**Hemel Hempstead School** (2007 - 2009)
+### **Hemel Hempstead School** (2007 - 2009)
 A Levels x 3
 
-**Queen Elizabeth II School** (2002 - 2007)
+### **Queen Elizabeth II School** (2002 - 2007)
 GCSEs x 9.5 (including maths, english, and sciences)
 
 ## Hobbies
 
-**Art**
+### Art
 I spend some of my spare time working on artwork, usually either digital or with watercolours.
 You can have a look at some samples of my work [here](https://www.coralbakerart.com).
 
-**Gaming**
+### Gaming
 I love a range of games, here's some of my all-time favourites:
 - Baldur's Gate
 - Portal
