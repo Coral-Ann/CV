@@ -1,19 +1,15 @@
 ## Coral Baker
 
-[Skills](#skills) | [Experience](#experience) | [Projects](#projects) | [Education](#education) | [Hobbies](#hobbies) | [CodeWars](https://www.codewars.com/users/Coral-Ann) | [Art](https://www.coralbakerart.com)
+[Projects](#projects) | [Experience](#experience) | [Skills](#skills)  | [Education](#education) | [Hobbies](#hobbies) | [CodeWars](https://www.codewars.com/users/Coral-Ann) | [Art](https://www.coralbakerart.com)
 
 Having experience in IT System administration, development, and technical support, I am confident engaging with end-users, customers, and developers alike. I continue to work on my technical experience towards software development, currently as a [Makers Academy](https://makers.tech/about-us/) student.
 
-## Skills
+## Projects
 
-- Ruby
-- Highly IT literate, including Microsoft Office/Adobe Suite.
-- Technical problem-solving.
-- Collaborating with technical experts.
-- Customer and end-user engagement.
-- Highly organised and self-motivated.
-- Clear written & vocal communication.
-- Current clean UK Driving License.
+| Name                         | Description       | Tech/tools        |
+| ---------------------------- | ----------------- | ----------------- |
+| [**Student Directory**](https://github.com/Coral-Ann/student-directory) | A program that creates, saves and loads a student directory. | Ruby |
+| [**Boris Bike**](https://github.com/Coral-Ann/boris-bikes)  | A program that uses classes to release and docks bikes from a docking station. | Ruby |
 
 ## Experience
 
@@ -38,11 +34,16 @@ Having experience in IT System administration, development, and technical suppor
 - Client engagement, support, and issue resolution.
 - End-to-end customer order management.
 
-## Projects
+## Skills
 
-| Name                         | Description       | Tech/tools        |
-| ---------------------------- | ----------------- | ----------------- |
-| **Student Directory**            | A program that creates, saves and loads a student directory. | Ruby |
+- Ruby
+- Highly IT literate, including Microsoft Office/Adobe Suite.
+- Technical problem-solving.
+- Collaborating with technical experts.
+- Customer and end-user engagement.
+- Highly organised and self-motivated.
+- Clear written & vocal communication.
+- Current clean UK Driving License.
 
 ## Education
 
