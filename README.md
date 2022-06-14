@@ -1,17 +1,23 @@
-## Coral Baker
+Coral Baker
+==================
 
-[Projects](#projects) | [Experience](#experience) | [Skills](#skills)  | [Education](#education) | [Hobbies](#hobbies) | [CodeWars](https://www.codewars.com/users/Coral-Ann) | [Art](https://www.coralbakerart.com)
+[Projects](#projects) | [Experience](#experience) | [Skills](#skills)  | [Education](#education) | [Hobbies](#hobbies) | [CodeWars](https://www.codewars.com/users/Coral-Ann)
 
-Having experience in IT System administration, development, and technical support, I am confident engaging with end-users, customers, and developers alike. I continue to work on my technical experience towards software development, currently as a [Makers Academy](https://makers.tech/about-us/) student.
+I am an aspiring developer with a background in design and IT, which has given me a combination of creativity and confidence working with others. Having completed my course as a [Makers Academy](https://makers.tech/about-us/) student, I am looking forward to producing polished, test-driven code in a variety of projects.
 
-## Projects
+This journey has been incredibly fun and satisfying, I’m excited to continue to learn and grow with both Front-End and Back-End development.
+
+Projects
+-------
 
 | Name                         | Description       | Tech/tools        |
 | ---------------------------- | ----------------- | ----------------- |
-| [**Student Directory**](https://github.com/Coral-Ann/student-directory) | A program that creates, saves and loads a student directory. | Ruby |
-| [**Boris Bike**](https://github.com/Coral-Ann/boris-bikes)  | A program that uses classes to release and docks bikes from a docking station. | Ruby |
+| [**Seedle**](https://github.com/rupertpople/seedle) | A website that locates birds and plants near you. | React, Javascript |
+| [**Acebook**](https://github.com/Conor-Developer/acebook-metaperverse)  | An experimental facebook clone. | Javascript |
+| [**Bank Test**](https://github.com/Coral-Ann/bank-test) | A quick and simple bank simulator. | Ruby |
 
-## Experience
+Experience
+-------
 
 **MMT & Gladstone Brookes** (2018-2021)
 
@@ -34,20 +40,37 @@ Having experience in IT System administration, development, and technical suppor
 - Client engagement, support, and issue resolution.
 - End-to-end customer order management.
 
-## Skills
+Skills
+-------
 
-- Ruby
-- Highly IT literate, including Microsoft Office/Adobe Suite.
-- Technical problem-solving.
-- Collaborating with technical experts.
-- Customer and end-user engagement.
-- Highly organised and self-motivated.
-- Clear written & vocal communication.
-- Current clean UK Driving License.
+**Languages & software**
+Ruby, Javascript, React, Adobe suite (photoshop, illustrator etc), be sure to take a look at my projects for full lists!
 
-## Education
+**Technical problem-solving**
+My work as a CMS developer (and prior as IT support) involved constant technical problem solving.
 
-**Makers Academy** (2021 - present)  
+**Team-player**
+I thoroughly enjoy working with others, camaraderie and support are always great motivators for creating high-quality work.
+
+**Creative**
+Having an art background is great for both having an eye for front-end design and out-of-the-box thinking with errors and bugs.
+
+**Agile**
+I can confidently say that I’m always excited to pick up and try different stacks and work in different ways, which makes me adaptable and flexible within working environments.
+
+**Self-motivated**
+Now that I’ve started my learning and development with coding, my enthusiasm doesn’t seem to stop growing. I’m eager to learn as much as I can and continually improve as a developer.
+
+**Communicator**
+I have clear written and vocal communication skills, I recommend watching our demo day presentation of Seedle [here](https://www.youtube.com/watch?v=MnX0ePaLG-I&t=863s) to see this in action!
+
+**Travel**
+Having family up and down the country, I’m no stranger to travel and have a clean UK Driving License.
+
+Education
+-------
+
+**Makers Academy** (March 2022 - June 2022)  
 16-week intensive development bootcamp
 
 **Leeds College of Art** (2010 - 2013)  
@@ -62,7 +85,8 @@ A Levels x 3
 **Queen Elizabeth II School** (2002 - 2007)  
 GCSEs x 9.5 (including maths, english, and sciences)
 
-## Hobbies
+Hobbies
+-------
 
 **Art**  
 I spend some of my spare time working on artwork, usually either digital or with watercolours.
