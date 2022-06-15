@@ -3,7 +3,7 @@ Coral Baker
 
 [Projects](#projects) | [Experience](#experience) | [Skills](#skills)  | [Education](#education) | [Hobbies](#hobbies) | [CodeWars](https://www.codewars.com/users/Coral-Ann)
 
-I am an aspiring developer with a background in design and IT, which has given me a combination of creativity and confidence working with others. Having completed my course as a [Makers Academy](https://makers.tech/about-us/) student, I am looking forward to producing polished, test-driven code in a variety of projects.
+I am an aspiring developer with a background in design and IT, which has given me a combination of creativity and confidence working with others. Having completed my course as a [Makers Academy](https://makers.tech/about-us/) student, I have been taught to produce polished, test-driven code in a variety of projects.
 
 This journey has been incredibly fun and satisfying, I’m excited to continue to learn and grow with both Front-End and Back-End development.
 
@@ -43,28 +43,28 @@ Experience
 Skills
 -------
 
-**Languages & software**
+**Languages & software**<br>
 Ruby, Javascript, React, Adobe suite (photoshop, illustrator etc), be sure to take a look at my projects for full lists!
 
-**Technical problem-solving**
+**Technical problem-solving**<br>
 My work as a CMS developer (and prior as IT support) involved constant technical problem solving.
 
-**Team-player**
+**Team-player**<br>
 I thoroughly enjoy working with others, camaraderie and support are always great motivators for creating high-quality work.
 
-**Creative**
+**Creative**<br>
 Having an art background is great for both having an eye for front-end design and out-of-the-box thinking with errors and bugs.
 
-**Agile**
-I can confidently say that I’m always excited to pick up and try different stacks and work in different ways, which makes me adaptable and flexible within working environments.
+**Agile**<br>
+I can confidently say that Makers Academy has taught me to be open to new tech stacks and work in different ways, which makes me adaptable and flexible within working environments.
 
-**Self-motivated**
+**Self-motivated**<br>
 Now that I’ve started my learning and development with coding, my enthusiasm doesn’t seem to stop growing. I’m eager to learn as much as I can and continually improve as a developer.
 
-**Communicator**
+**Communicator**<br>
 I have clear written and vocal communication skills, I recommend watching our demo day presentation of Seedle [here](https://www.youtube.com/watch?v=MnX0ePaLG-I&t=863s) to see this in action!
 
-**Travel**
+**Travel**<br>
 Having family up and down the country, I’m no stranger to travel and have a clean UK Driving License.
 
 Education
@@ -95,6 +95,7 @@ You can have a look at some samples of my work [here](https://www.coralbakerart.
 **Gaming**  
 I love a range of games, here's some of my all-time favourites:
 - Baldur's Gate
+- Bioshock
 - Portal
 - Final Fantasy XIV
 - Warcraft
