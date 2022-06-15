@@ -12,7 +12,7 @@ Projects
 
 | Name                         | Description       | Timeframe | Tech/tools        |
 | ---------------------------- | ----------------- | ----------- | ----------------- |
-| [**Seedle**](https://github.com/rupertpople/seedle) | A website that locates birds and plants near you. | 10 days | React, Javascript |
+| [**Seedle**](https://github.com/Coral-Ann/seedle) | A website that locates birds and plants near you. | 10 days | React, Javascript |
 | [**Acebook**](https://github.com/Conor-Developer/acebook-metaperverse)  | An experimental facebook clone. | 10 days |  Javascript |
 | [**Bank Test**](https://github.com/Coral-Ann/bank-test) | A quick and simple bank simulator. | 2 days | Ruby |
 
