@@ -56,7 +56,7 @@ Projects
 
 | Name                         | Description       | Timeframe | Tech/tools        |
 | ---------------------------- | ----------------- | ----------- | ----------------- |
-| [**Seedle**](https://github.com/Coral-Ann/seedle) | A website that locates birds and plants near you. | 10 days | Javascript, React, NodeJS, Github Actions, HTML, CSS, Heroku |
+| [**Seedle**](https://github.com/rupertpople/seedle) | A website that locates birds and plants near you. | 10 days | Javascript, React, NodeJS, Github Actions, HTML, CSS, Heroku |
 | [**Acebook**](https://github.com/Conor-Developer/acebook-metaperverse)  | An experimental facebook clone. | 10 days |  JavaScript, HTML, CSS, Handlebars, Heroku, Mongoose, Github Actions (CI/CD), MongoDB |
 | [**Bank Test**](https://github.com/Coral-Ann/bank-test) | A quick and simple bank simulator. | 2 days | Ruby, irb, rspec, Rubocop, Simplecov |
 
@@ -67,15 +67,15 @@ Experience
 **MMT & Gladstone Brookes** (2018-2021)
 
 ***CMS Developer***
-- Promoted to more technical role.
-- Testing of new software functions.
-- Basic SQL commands.
-- Technical problem solving.
-- Support and maintenance for multiple systems. 
-- Providing and managing clean rule structures for software developers.
+- Promoted to more technical role: *A display of my fast learning.*
+- Basic SQL commands: *This has been great for building and managing databases in any project.*
+- Testing systems: *Checking for anything our software and web developers may have missed. This has made me thorough and already attuned to spotting edge cases within projects.*
+- Identifying bug sources: *This gave me an eye for identifying causes of bugs, proving crucial with test-driven-development and bug-fixing.*
+- System Maintanence: *These tasks varied day-to-day, making me adaptable and agile.*
+- Providing pseudo-code: *Changing client requests into code-like structures that would be easily digestable for my developer team.*
 
 ***IT Frontline Support***
-- Transferred to IT to pursue career interest.
+- Transferred to IT to pursue career interest, my company trusted that I would do well having been a 
 - User support helpdesk management.
 - Troubleshooting user software and hardware issues.
 - Hardware and VPN setup.
@@ -88,9 +88,6 @@ Experience
 
 General Skills
 -------
-
-**Languages & software**<br>
-Ruby, Javascript, React, Adobe suite (photoshop, illustrator etc), be sure to take a look at my projects for full lists!
 
 **Technical problem-solving**<br>
 My work as a CMS developer (and prior as IT support) involved constant technical problem solving.
@@ -108,10 +105,7 @@ I can confidently say that Makers Academy has taught me to be open to new tech s
 Now that I’ve started my learning and development with coding, my enthusiasm doesn’t seem to stop growing. I’m eager to learn as much as I can and continually improve as a developer.
 
 **Communicator**<br>
-I have clear written and vocal communication skills, I recommend watching our demo day presentation of Seedle [here](https://www.youtube.com/watch?v=MnX0ePaLG-I&t=863s) to see this in action!
-
-**Travel**<br>
-Having family up and down the country, I’m no stranger to travel and have a clean UK Driving License.
+I have clear written and vocal communication skills, I recommend watching our demo day presentation of Seedle (David and I speaking) linked below to see this in action!
 
 
 Education
