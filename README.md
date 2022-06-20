@@ -3,10 +3,10 @@
 <p>
   <div align="center">
     <a href="https://github.com/Coral-Ann/CV/blob/main/README.md#about-me">About Me</a> | 
-    <a href="https://github.com/Coral-Ann/CV/blob/main/README.md#programming-stack">Programming Stack</a> | 
+    <a href="https://github.com/Coral-Ann/CV/blob/main/README.md#tech-skills">Tech Skills</a> | 
     <a href="https://github.com/Coral-Ann/CV/blob/main/README.md#projects">Projects</a> | 
     <a href="https://github.com/Coral-Ann/CV/blob/main/README.md#experience">Experience</a> | 
-    <a href="https://github.com/Coral-Ann/CV/blob/main/README.md#skills">Skills</a> | 
+    <a href="https://github.com/Coral-Ann/CV/blob/main/README.md#general-skills">General Skills</a> | 
     <a href="https://github.com/Coral-Ann/CV/blob/main/README.md#education">Education</a> | 
     <a href="https://github.com/Coral-Ann/CV/blob/main/README.md#hobbies">Hobbies</a> | 
     <a href="https://www.codewars.com/users/Coral-Ann">Codewars</a>
@@ -17,14 +17,14 @@
 About me
 -------
 
-A spirited junior developer with a background in professional design and IT, excited to continue my tech industry journey! I'm looking forward to working within an agile team, apply my strengths, and learn from others to continually improve in both front-end and back-end development.
+A spirited junior developer with a background in professional design and IT, I am excited to continue my tech industry journey! I am looking forward to working in an agile team, applying my strengths and learning from others to grow my front-end and back-end development capabilities.
 
-Gained as a Freelance Artist, I intend to use my natural attention to detail, creativity, and experience with clients to use towards coding and consultation. Throughout my time as a Claims Manager and Tech Support I've thoroughly enjoyed working with others and supporting those around me, along with the challenge of solving problems both with clientel and software.
+Trained as a Freelance Artist, I intend to use my natural attention to detail, creativity and experience with clients to use towards coding and consultation. Throughout my time as a Claims Manager and in Tech Support I have thoroughly enjoyed working with others and supporting those around me, along with the challenge of solving problems both with clientele and software.
 
-As a [Makers Academy](https://makers.tech/about-us/) student, I produce polished, test-driven, DRY code. I can't wait to contribute to a range of future projects, my current personal project being a clean, updated gallery website.
+As a [Makers Academy](https://makers.tech/about-us/) student, I produce polished, test-driven, DRY code. I cannot wait to contribute to a range of future projects, my next personal project being a clean gallery website.
 
 
-Programming Stack
+Tech Skills
 -------
 
 <p>
@@ -41,8 +41,12 @@ Programming Stack
   <img src="https://img.shields.io/badge/-React-58D2F0?style=for-the-badge&logo=react&logoColor=58D2F0&labelColor=282828"><br>
   
   <img src="https://img.shields.io/badge/-MongoDB-51A940?style=for-the-badge&logo=mongodb&logoColor=51A940&labelColor=282828">
-  <img src="https://img.shields.io/badge/-PostgreSQL-3b3938?style=for-the-badge&logo=postgresql&logoColor=faf2ed&labelColor=282828">
   <img src="https://img.shields.io/badge/-Github Actions-4391D6?style=for-the-badge&logo=githubactions&logoColor=4391D6&labelColor=282828">
+  <img src="https://img.shields.io/badge/-PostgreSQL-3b3938?style=for-the-badge&logo=postgresql&logoColor=faf2ed&labelColor=282828"><br>
+  
+  <img src="https://img.shields.io/badge/-Photoshop-3153AD?style=for-the-badge&logo=adobe-photoshop&logoColor=3153AD&labelColor=282828">
+  <img src="https://img.shields.io/badge/-Procreate-3b3938?style=for-the-badge&logo=procreate&logoColor=3b3938&labelColor=282828">
+  <img src="https://img.shields.io/badge/-Illustrator-ED9A47?style=for-the-badge&logo=adobe-illustrator&logoColor=ED9A47&labelColor=282828">
 </div>
 </p>
 
@@ -52,7 +56,7 @@ Projects
 
 | Name                         | Description       | Timeframe | Tech/tools        |
 | ---------------------------- | ----------------- | ----------- | ----------------- |
-| [**Seedle**](https://github.com/Coral-Ann/seedle) | A website that locates birds and plants near you. | 10 days | React, NodeJS, Github Actions, HTML, CSS, Heroku |
+| [**Seedle**](https://github.com/Coral-Ann/seedle) | A website that locates birds and plants near you. | 10 days | Javascript, React, NodeJS, Github Actions, HTML, CSS, Heroku |
 | [**Acebook**](https://github.com/Conor-Developer/acebook-metaperverse)  | An experimental facebook clone. | 10 days |  JavaScript, HTML, CSS, Handlebars, Heroku, Mongoose, Github Actions (CI/CD), MongoDB |
 | [**Bank Test**](https://github.com/Coral-Ann/bank-test) | A quick and simple bank simulator. | 2 days | Ruby, irb, rspec, Rubocop, Simplecov |
 
@@ -82,7 +86,7 @@ Experience
 - End-to-end customer order management.
 
 
-Skills
+General Skills
 -------
 
 **Languages & software**<br>
