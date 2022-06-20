@@ -64,26 +64,36 @@ Projects
 Experience
 -------
 
-**MMT & Gladstone Brookes (2018-2021)**
+<h3>MMT & Gladstone Brookes (2018-2021)</h3>
 
 ***CMS Developer***
 - Promoted to more technical role - *A display of my fast learning.*
 - Basic SQL commands - *Great for building and managing databases in any project.*
 - Testing systems - *Checking for anything our software and web developers may have missed has made me thorough and already attuned to spotting edge cases within projects.*
 - Identifying bug sources - *Requires an eye for identifying causes of bugs, proving crucial for test-driven-development and bug-fixing.*
-- System Maintanence - *Tasks that varied day-to-day, making me adaptable and agile.*
-- Providing pseudo-code - *Well practiced in changing client requests into code-like structures that is easily digestable for me and my team.*
+- System maintanence - *Tasks that varied constantly, making me adaptable and agile.*
+- Providing pseudo-code - *Well practiced in changing client requests into pseudo-code that is easily digestable for me and my team.*
+- HTML emails - *Constantly managed and editted emails, showing attention to detail and consistent styling and the ability to follow company practices.*
 
 ***IT Frontline Support***
-- Transferred to IT to pursue career interest
-- User support helpdesk management.
-- Troubleshooting user software and hardware issues.
-- Hardware and VPN setup.
+- Transferred to IT to pursue career interest - *An example of my drive and interest in the tech industry.*
+- Troubleshooting user software and hardware issues- *Patient and happy to focus on individuals and provide support and efficient solutions to move forward.*
+- Hardware and VPN setup - *Well versed in setting up and maintaining hardware and software remotely, able to work under pressure and as a team to meet very rapid deadlines (in this case, dozens of laptops due to covid)*
 
 ***Claims Manager***
-- Client claim case management and processing. 
-- Client engagement, support, and issue resolution.
-- End-to-end customer order management.
+- End-to-end case management and processing - *Managing large quantities of cases effectively, requiring strong organisational skills.*
+- Client engagement, support, and issue resolution - *Assisting clientele in a calm, friendly and patient manner.*
+
+
+<h3>Dunelm LTD (2016-2018)</h3>
+
+***Sales Consultant***
+- Client care and relationships - *Able to nurture client relationships from the beginning to end of a project, with repeat customers.*
+
+
+<h3>Self-employed (2013-2016)</h3>
+
+***Freelance Artist***
 
 
 General Skills
@@ -93,7 +103,7 @@ General Skills
 My work as a CMS developer (and prior as IT support) involved constant technical problem solving.
 
 **Team-player**<br>
-I thoroughly enjoy working with others, camaraderie and support are always great motivators for creating high-quality work.
+I truly enjoy working with others, camaraderie and support are always great motivators for creating high quality projects. The Makers course led us to work on both individual and joint projects and I was comfortable with either arrangement.  My previous experience working in teams has been beneficial, with one of my strengths being the ability to ensure that others, not only the loudest voices, have the opportunity to put forward their ideas, whilst also always being willing to put forward ideas of my own, so that we identify the best solution most effectively.
 
 **Creative**<br>
 My art background is great, both for having an eye for front-end design and also for out of the box thinking when dealing with errors and bugs. As a freelance designer I created both digital and conventional art and was required to build strong relationships with my clients and in consequence understand their needs. This skill relates well to a consultancy role where I will also need to build similar relationships with clients, however instead of creating art I will be coding for them. 
@@ -102,13 +112,14 @@ My art background is great, both for having an eye for front-end design and also
 I can confidently say that Makers Academy has taught me to be open to new tech stacks and work in different ways, which makes me adaptable and flexible within working environments.
 
 **Self-motivated**<br>
-Now that I’ve started my learning and development with coding, my enthusiasm doesn’t seem to stop growing. I’m eager to learn as much as I can and continually improve as a developer.
+Now that I have started my learning and development with coding my enthusiasm is boundless. I am eager to learn as much as possible and to continue to improve as a developer. I am excited to work on new challenges, gaining new knowledge and using my existing skills to enhance my future projects.
 
 **Communicator**<br>
-I have clear written and vocal communication skills, I recommend watching our demo day presentation of Seedle (David and I speaking) linked below to see this in action!
+I have clear written and vocal communication skills, I recommend watching our demo day presentation of Seedle below to see this in action (David and I speaking)!
 
-
-[<img src="https://i.imgur.com/BBvh9uF.png" width="800">](https://www.youtube.com/watch?v=MnX0ePaLG-I&t=1067s) 
+<div align="center">
+  <a href="https://www.youtube.com/watch?v=MnX0ePaLG-I&t=1067s"> <img src="https://i.imgur.com/BBvh9uF.png" width="800"> </a>
+</div>
 
 Education
 -------
@@ -133,14 +144,15 @@ Hobbies
 -------
 
 **Art**  
-I spend some of my spare time working on artwork, usually either digital or with watercolours.
-You can have a look at some samples of my work [here](https://www.coralbakerart.com).
+Whilst I no longer work as a Freelance Artist, I continue to love and enjoy designing in my spare time. My preferred mediums are usually digital or with watercolours. You can have a look at some samples of my work [here](https://www.coralbakerart.com), I'm replacing this with my own website soon.
+
+**Kayaking**  
+Growing up on the Isle of Man meant I had constant watersporting oppurtunities, my choice always being kayaking. When able I always jump at the chance to spend time out on the water, having recently spent time in the lake district doing just that.
 
 **Gaming**  
-I love a range of games, here's some of my all-time favourites:
+I love a range of games for their masterful story-telling and fun mechanics, and for me is a great team activity that involves constant puzzles and quick-thinking. Here's some of my all-time favourites:
 - Baldur's Gate
 - Bioshock
 - Portal
 - Final Fantasy XIV
 - Warcraft
-- Undertale
