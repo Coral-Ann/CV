@@ -1,20 +1,61 @@
-Coral Baker
-==================
+<h1 align="center"> Coral Baker - Junior Developer</h1>
 
-[Projects](#projects) | [Experience](#experience) | [Skills](#skills)  | [Education](#education) | [Hobbies](#hobbies) | [CodeWars](https://www.codewars.com/users/Coral-Ann)
+<p>
+  <div align="center">
+    <a href="https://github.com/Coral-Ann/CV/blob/main/README.md#about-me">About Me</a> | 
+    <a href="https://github.com/Coral-Ann/CV/blob/main/README.md#programming-stack">Programming Stack</a> | 
+    <a href="https://github.com/Coral-Ann/CV/blob/main/README.md#projects">Projects</a> | 
+    <a href="https://github.com/Coral-Ann/CV/blob/main/README.md#experience">Experience</a> | 
+    <a href="https://github.com/Coral-Ann/CV/blob/main/README.md#skills">Skills</a> | 
+    <a href="https://github.com/Coral-Ann/CV/blob/main/README.md#education">Education</a> | 
+    <a href="https://github.com/Coral-Ann/CV/blob/main/README.md#hobbies">Hobbies</a> | 
+    <a href="https://www.codewars.com/users/Coral-Ann">Codewars</a>
+  </div>
+</p>
 
-I am an aspiring developer with a background in design and IT, which has given me a combination of creativity and confidence working with others. Having completed my course as a [Makers Academy](https://makers.tech/about-us/) student, I have been taught to produce polished, test-driven code in a variety of projects.
 
-This journey has been incredibly fun and satisfying, I’m excited to continue to learn and grow with both Front-End and Back-End development.
+About me
+-------
+
+A spirited junior developer with a background in professional design and IT, excited to continue my tech industry journey! I'm looking forward to working within an agile team, apply my strengths, and learn from others to continually improve in both front-end and back-end development.
+
+Gained as a Freelance Artist, I intend to use my natural attention to detail, creativity, and experience with clients to use towards coding and consultation. Throughout my time as a Claims Manager and Tech Support I've thoroughly enjoyed working with others and supporting those around me, along with the challenge of solving problems both with clientel and software.
+
+As a [Makers Academy](https://makers.tech/about-us/) student, I produce polished, test-driven, DRY code. I can't wait to contribute to a range of future projects, my current personal project being a clean, updated gallery website.
+
+
+Programming Stack
+-------
+
+<p>
+<div align="center">
+  <img src="https://img.shields.io/badge/-HTML-FF5733?style=for-the-badge&logo=html5&logoColor=FF5733&labelColor=282828">
+  <img src="https://img.shields.io/badge/-CSS-559DFF?style=for-the-badge&logo=css3&logoColor=559DFF&labelColor=282828">
+  <img src="https://img.shields.io/badge/-Ruby-FF6A55?style=for-the-badge&logo=ruby&logoColor=FF6A55&labelColor=282828">
+  <img src="https://img.shields.io/badge/-Javascript-f7e968?style=for-the-badge&logo=javascript&logoColor=f7e968&labelColor=282828"><br>
+  
+  <img src="https://img.shields.io/badge/-Cypress-3b3938?style=for-the-badge&logo=cypress&logoColor=faf2ed&labelColor=282828">
+  <img src="https://img.shields.io/badge/-Jest-B84D6F?style=for-the-badge&logo=jest&logoColor=B84D6F&labelColor=282828">
+  <img src="https://img.shields.io/badge/-Node.js-80D857?style=for-the-badge&logo=node.js&logoColor=80D857&labelColor=282828">
+  <img src="https://img.shields.io/badge/-RSpec-F05892?style=for-the-badge&logo=ruby&logoColor=F05892&labelColor=282828">
+  <img src="https://img.shields.io/badge/-React-58D2F0?style=for-the-badge&logo=react&logoColor=58D2F0&labelColor=282828"><br>
+  
+  <img src="https://img.shields.io/badge/-MongoDB-51A940?style=for-the-badge&logo=mongodb&logoColor=51A940&labelColor=282828">
+  <img src="https://img.shields.io/badge/-PostgreSQL-3b3938?style=for-the-badge&logo=postgresql&logoColor=faf2ed&labelColor=282828">
+  <img src="https://img.shields.io/badge/-Github Actions-4391D6?style=for-the-badge&logo=githubactions&logoColor=4391D6&labelColor=282828">
+</div>
+</p>
+
 
 Projects
 -------
 
 | Name                         | Description       | Timeframe | Tech/tools        |
 | ---------------------------- | ----------------- | ----------- | ----------------- |
-| [**Seedle**](https://github.com/Coral-Ann/seedle) | A website that locates birds and plants near you. | 10 days | React, Javascript |
-| [**Acebook**](https://github.com/Conor-Developer/acebook-metaperverse)  | An experimental facebook clone. | 10 days |  Javascript |
-| [**Bank Test**](https://github.com/Coral-Ann/bank-test) | A quick and simple bank simulator. | 2 days | Ruby |
+| [**Seedle**](https://github.com/Coral-Ann/seedle) | A website that locates birds and plants near you. | 10 days | React, NodeJS, Github Actions, HTML, CSS, Heroku |
+| [**Acebook**](https://github.com/Conor-Developer/acebook-metaperverse)  | An experimental facebook clone. | 10 days |  JavaScript, HTML, CSS, Handlebars, Heroku, Mongoose, Github Actions (CI/CD), MongoDB |
+| [**Bank Test**](https://github.com/Coral-Ann/bank-test) | A quick and simple bank simulator. | 2 days | Ruby, irb, rspec, Rubocop, Simplecov |
+
 
 Experience
 -------
@@ -39,6 +80,7 @@ Experience
 - Client claim case management and processing. 
 - Client engagement, support, and issue resolution.
 - End-to-end customer order management.
+
 
 Skills
 -------
@@ -67,6 +109,7 @@ I have clear written and vocal communication skills, I recommend watching our de
 **Travel**<br>
 Having family up and down the country, I’m no stranger to travel and have a clean UK Driving License.
 
+
 Education
 -------
 
@@ -84,6 +127,7 @@ A Levels x 3
 
 **Queen Elizabeth II School** (2002 - 2007)  
 GCSEs x 9.5 (including maths, english, and sciences)
+
 
 Hobbies
 -------
