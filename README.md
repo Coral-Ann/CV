@@ -19,7 +19,7 @@ About me
 
 A spirited junior developer with a background in professional design and IT, I am excited to continue my tech industry journey! I am looking forward to working in an agile team, applying my strengths and learning from others to grow my front-end and back-end development capabilities.
 
-Trained as a Freelance Artist, I intend to use my natural attention to detail, creativity and experience with clients to use towards coding and consultation. Throughout my time as a Claims Manager and in Tech Support I have thoroughly enjoyed working with others and supporting those around me, along with the challenge of solving problems both with clientele and software.
+Trained as a Freelance Artist, I intend to utilise my natural attention to detail, creativity and experience with clients to use towards coding and consultation. Throughout my time as a Claims Manager and in Tech Support I have thoroughly enjoyed working with others and supporting those around me, along with the challenge of solving problems both with clientele and software.
 
 As a [Makers Academy](https://makers.tech/about-us/) student, I produce polished, test-driven, DRY code. I cannot wait to contribute to a range of future projects, my next personal project being a clean gallery website.
 
@@ -64,18 +64,18 @@ Projects
 Experience
 -------
 
-**MMT & Gladstone Brookes** (2018-2021)
+**MMT & Gladstone Brookes (2018-2021)**
 
 ***CMS Developer***
-- Promoted to more technical role: *A display of my fast learning.*
-- Basic SQL commands: *This has been great for building and managing databases in any project.*
-- Testing systems: *Checking for anything our software and web developers may have missed. This has made me thorough and already attuned to spotting edge cases within projects.*
-- Identifying bug sources: *This gave me an eye for identifying causes of bugs, proving crucial with test-driven-development and bug-fixing.*
-- System Maintanence: *These tasks varied day-to-day, making me adaptable and agile.*
-- Providing pseudo-code: *Changing client requests into code-like structures that would be easily digestable for my developer team.*
+- Promoted to more technical role - *A display of my fast learning.*
+- Basic SQL commands - *Great for building and managing databases in any project.*
+- Testing systems - *Checking for anything our software and web developers may have missed has made me thorough and already attuned to spotting edge cases within projects.*
+- Identifying bug sources - *Requires an eye for identifying causes of bugs, proving crucial for test-driven-development and bug-fixing.*
+- System Maintanence - *Tasks that varied day-to-day, making me adaptable and agile.*
+- Providing pseudo-code - *Well practiced in changing client requests into code-like structures that is easily digestable for me and my team.*
 
 ***IT Frontline Support***
-- Transferred to IT to pursue career interest, my company trusted that I would do well having been a 
+- Transferred to IT to pursue career interest
 - User support helpdesk management.
 - Troubleshooting user software and hardware issues.
 - Hardware and VPN setup.
@@ -96,7 +96,7 @@ My work as a CMS developer (and prior as IT support) involved constant technical
 I thoroughly enjoy working with others, camaraderie and support are always great motivators for creating high-quality work.
 
 **Creative**<br>
-Having an art background is great for both having an eye for front-end design and out-of-the-box thinking with errors and bugs.
+My art background is great, both for having an eye for front-end design and also for out of the box thinking when dealing with errors and bugs. As a freelance designer I created both digital and conventional art and was required to build strong relationships with my clients and in consequence understand their needs. This skill relates well to a consultancy role where I will also need to build similar relationships with clients, however instead of creating art I will be coding for them. 
 
 **Agile**<br>
 I can confidently say that Makers Academy has taught me to be open to new tech stacks and work in different ways, which makes me adaptable and flexible within working environments.
@@ -107,6 +107,8 @@ Now that I’ve started my learning and development with coding, my enthusiasm d
 **Communicator**<br>
 I have clear written and vocal communication skills, I recommend watching our demo day presentation of Seedle (David and I speaking) linked below to see this in action!
 
+
+[<img src="https://i.imgur.com/BBvh9uF.png" width="800">](https://www.youtube.com/watch?v=MnX0ePaLG-I&t=1067s) 
 
 Education
 -------
