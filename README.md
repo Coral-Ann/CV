@@ -2,10 +2,10 @@
 
 <p>
   <div align="center">
-    <a href="https://github.com/Coral-Ann/CV/blob/main/README.md#about-me">About Me</a> | 
-    <a href="https://github.com/Coral-Ann/CV/blob/main/README.md#tech-skills">Tech Skills</a> | 
+    <a href="https://github.com/Coral-Ann/CV/blob/main/README.md#about-me">About Me</a> |  
     <a href="https://github.com/Coral-Ann/CV/blob/main/README.md#projects">Projects</a> | 
     <a href="https://github.com/Coral-Ann/CV/blob/main/README.md#experience">Experience</a> | 
+    <a href="https://github.com/Coral-Ann/CV/blob/main/README.md#tech-skills">Tech Skills</a> | 
     <a href="https://github.com/Coral-Ann/CV/blob/main/README.md#general-skills">General Skills</a> | 
     <a href="https://github.com/Coral-Ann/CV/blob/main/README.md#education">Education</a> | 
     <a href="https://github.com/Coral-Ann/CV/blob/main/README.md#hobbies">Hobbies</a> | 
@@ -22,33 +22,6 @@ A spirited junior developer with a background in professional design and IT, I a
 Trained as a Freelance Artist, I intend to utilise my natural attention to detail, creativity and experience with clients to use towards coding and consultation. Throughout my time as a Claims Manager and in Tech Support I have thoroughly enjoyed working with others and supporting those around me, along with the challenge of solving problems both with clientele and software.
 
 As a [Makers Academy](https://makers.tech/about-us/) student, I produce polished, test-driven, DRY code. I cannot wait to contribute to a range of future projects, my next personal project being a clean gallery website.
-
-
-Tech Skills
--------
-
-<p>
-<div align="center">
-  <img src="https://img.shields.io/badge/-HTML-FF5733?style=for-the-badge&logo=html5&logoColor=FF5733&labelColor=282828">
-  <img src="https://img.shields.io/badge/-CSS-559DFF?style=for-the-badge&logo=css3&logoColor=559DFF&labelColor=282828">
-  <img src="https://img.shields.io/badge/-Ruby-FF6A55?style=for-the-badge&logo=ruby&logoColor=FF6A55&labelColor=282828">
-  <img src="https://img.shields.io/badge/-Javascript-f7e968?style=for-the-badge&logo=javascript&logoColor=f7e968&labelColor=282828"><br>
-  
-  <img src="https://img.shields.io/badge/-Cypress-3b3938?style=for-the-badge&logo=cypress&logoColor=faf2ed&labelColor=282828">
-  <img src="https://img.shields.io/badge/-Jest-B84D6F?style=for-the-badge&logo=jest&logoColor=B84D6F&labelColor=282828">
-  <img src="https://img.shields.io/badge/-Node.js-80D857?style=for-the-badge&logo=node.js&logoColor=80D857&labelColor=282828">
-  <img src="https://img.shields.io/badge/-RSpec-F05892?style=for-the-badge&logo=ruby&logoColor=F05892&labelColor=282828">
-  <img src="https://img.shields.io/badge/-React-58D2F0?style=for-the-badge&logo=react&logoColor=58D2F0&labelColor=282828"><br>
-  
-  <img src="https://img.shields.io/badge/-MongoDB-51A940?style=for-the-badge&logo=mongodb&logoColor=51A940&labelColor=282828">
-  <img src="https://img.shields.io/badge/-Github Actions-4391D6?style=for-the-badge&logo=githubactions&logoColor=4391D6&labelColor=282828">
-  <img src="https://img.shields.io/badge/-PostgreSQL-3b3938?style=for-the-badge&logo=postgresql&logoColor=faf2ed&labelColor=282828"><br>
-  
-  <img src="https://img.shields.io/badge/-Photoshop-3153AD?style=for-the-badge&logo=adobe-photoshop&logoColor=3153AD&labelColor=282828">
-  <img src="https://img.shields.io/badge/-Procreate-3b3938?style=for-the-badge&logo=procreate&logoColor=3b3938&labelColor=282828">
-  <img src="https://img.shields.io/badge/-Illustrator-ED9A47?style=for-the-badge&logo=adobe-illustrator&logoColor=ED9A47&labelColor=282828">
-</div>
-</p>
 
 
 Projects
@@ -102,6 +75,33 @@ Experience
 - Attention to detail - *My artistry is detail-oriented, which is no different to my programming.*
 
 
+Tech Skills
+-------
+
+<p>
+<div align="center">
+  <img src="https://img.shields.io/badge/-HTML-FF5733?style=for-the-badge&logo=html5&logoColor=FF5733&labelColor=282828">
+  <img src="https://img.shields.io/badge/-CSS-559DFF?style=for-the-badge&logo=css3&logoColor=559DFF&labelColor=282828">
+  <img src="https://img.shields.io/badge/-Ruby-FF6A55?style=for-the-badge&logo=ruby&logoColor=FF6A55&labelColor=282828">
+  <img src="https://img.shields.io/badge/-Javascript-f7e968?style=for-the-badge&logo=javascript&logoColor=f7e968&labelColor=282828"><br>
+  
+  <img src="https://img.shields.io/badge/-Cypress-3b3938?style=for-the-badge&logo=cypress&logoColor=faf2ed&labelColor=282828">
+  <img src="https://img.shields.io/badge/-Jest-B84D6F?style=for-the-badge&logo=jest&logoColor=B84D6F&labelColor=282828">
+  <img src="https://img.shields.io/badge/-Node.js-80D857?style=for-the-badge&logo=node.js&logoColor=80D857&labelColor=282828">
+  <img src="https://img.shields.io/badge/-RSpec-F05892?style=for-the-badge&logo=ruby&logoColor=F05892&labelColor=282828">
+  <img src="https://img.shields.io/badge/-React-58D2F0?style=for-the-badge&logo=react&logoColor=58D2F0&labelColor=282828"><br>
+  
+  <img src="https://img.shields.io/badge/-MongoDB-51A940?style=for-the-badge&logo=mongodb&logoColor=51A940&labelColor=282828">
+  <img src="https://img.shields.io/badge/-Github Actions-4391D6?style=for-the-badge&logo=githubactions&logoColor=4391D6&labelColor=282828">
+  <img src="https://img.shields.io/badge/-PostgreSQL-3b3938?style=for-the-badge&logo=postgresql&logoColor=faf2ed&labelColor=282828"><br>
+  
+  <img src="https://img.shields.io/badge/-Photoshop-3153AD?style=for-the-badge&logo=adobe-photoshop&logoColor=3153AD&labelColor=282828">
+  <img src="https://img.shields.io/badge/-Procreate-3b3938?style=for-the-badge&logo=procreate&logoColor=3b3938&labelColor=282828">
+  <img src="https://img.shields.io/badge/-Illustrator-ED9A47?style=for-the-badge&logo=adobe-illustrator&logoColor=ED9A47&labelColor=282828">
+</div>
+</p>
+
+
 General Skills
 -------
 
@@ -112,7 +112,7 @@ I truly enjoy working with others, camaraderie and support are always great moti
 My art background is great, both for having an eye for front-end design and also for out of the box thinking when dealing with errors and bugs. As a freelance designer I created both digital and conventional art and was required to build strong relationships with my clients and in consequence understand their needs. This skill relates well to a consultancy role where I will also need to build similar relationships with clients, however instead of creating art I will be coding for them. 
 
 **Agile**<br>
-I can confidently say that Makers Academy has taught me to be open to new tech stacks and work in different ways, which makes me adaptable and flexible within working environments. As an example, I was able to learn to use React within a project in under 2 weeks. If I am able to do this, I know I can pick up other languages and learn them quickly to adapt to whatever is best for my clients.
+I can confidently say that Makers Academy has taught me to be open to new tech stacks and work in different ways, which makes me adaptable and flexible within working environments. As an example, I was able to learn to use React within a project in under 2 weeks. If I can do this, I know I can pick up other languages and learn them quickly to adapt to whatever is best for my clients.
 
 **Self-motivated**<br>
 Now that I have started my learning and development with coding my enthusiasm is boundless. I am eager to learn as much as possible and to continue to improve as a developer. I am excited to work on new challenges, gaining new knowledge and using my existing skills to enhance my future projects.
@@ -147,7 +147,7 @@ Hobbies
 -------
 
 **Art**  
-Whilst I no longer work as a Freelance Artist, I continue to love designing in my spare time. My preferred mediums are usually digital or with watercolours. You can have a look at some samples of my work [here](https://www.coralbakerart.com), I'm replacing this with my own website soon!
+Whilst I no longer work as a Freelance Artist, I continue design in my spare time. My preferred mediums are usually digital or with watercolours and love to build my skills by dabbling with different mediums. You can have a look at some samples of my work [here](https://www.coralbakerart.com), I'm replacing this with my own website soon!
 
 **Kayaking**  
 Growing up on the Isle of Man meant I had constant watersporting oppurtunities, my choice always being kayaking. When able I always jump at the chance to spend time out on the water, having recently been in the lake district doing just that.
