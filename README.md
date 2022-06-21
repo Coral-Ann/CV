@@ -89,18 +89,21 @@ Experience
 
 ***Sales Consultant***
 - Client care and relationships - *Able to nurture client relationships from the beginning to end of a project, with repeat customers.*
+- Supporting Coworkers - *Sought out by coworkers for my ability to assist customers, de-escelate grievances and find alternative solutions.*
+- Networking - *Built a network within the company, great teamwork and friendships meant being able to rely and call on one another to help with client solutions around the country, from other stores to the sites where products were made.*
 
 
 <h3>Self-employed (2013-2016)</h3>
 
 ***Freelance Artist***
+- Client requests - *Ability to work exactly to a brief and understanding a clients needs, along with the skill of knowing what to ask to receive the information required to meet the client's expectations.*
+- Client choice - *Able to learn other mediums depending on the commission, the same as using new languages in development.*
+- Adaptability with drafts - *Customers can change their minds as their product is shaped. I have always been flexible to accomodate these changes.*
+- Attention to detail - *My artistry is detail-oriented, which is no different to my programming.*
 
 
 General Skills
 -------
-
-**Technical problem-solving**<br>
-My work as a CMS developer (and prior as IT support) involved constant technical problem solving.
 
 **Team-player**<br>
 I truly enjoy working with others, camaraderie and support are always great motivators for creating high quality projects. The Makers course led us to work on both individual and joint projects and I was comfortable with either arrangement.  My previous experience working in teams has been beneficial, with one of my strengths being the ability to ensure that others, not only the loudest voices, have the opportunity to put forward their ideas, whilst also always being willing to put forward ideas of my own, so that we identify the best solution most effectively.
@@ -109,16 +112,16 @@ I truly enjoy working with others, camaraderie and support are always great moti
 My art background is great, both for having an eye for front-end design and also for out of the box thinking when dealing with errors and bugs. As a freelance designer I created both digital and conventional art and was required to build strong relationships with my clients and in consequence understand their needs. This skill relates well to a consultancy role where I will also need to build similar relationships with clients, however instead of creating art I will be coding for them. 
 
 **Agile**<br>
-I can confidently say that Makers Academy has taught me to be open to new tech stacks and work in different ways, which makes me adaptable and flexible within working environments.
+I can confidently say that Makers Academy has taught me to be open to new tech stacks and work in different ways, which makes me adaptable and flexible within working environments. As an example, I was able to learn to use React within a project in under 2 weeks. If I am able to do this, I know I can pick up other languages and learn them quickly to adapt to whatever is best for my clients.
 
 **Self-motivated**<br>
 Now that I have started my learning and development with coding my enthusiasm is boundless. I am eager to learn as much as possible and to continue to improve as a developer. I am excited to work on new challenges, gaining new knowledge and using my existing skills to enhance my future projects.
 
 **Communicator**<br>
-I have clear written and vocal communication skills, I recommend watching our demo day presentation of Seedle below to see this in action (David and I speaking)!
+I have clear written and vocal communication skills and understand the importance of clarity when working as a team. I recommend watching our demo day presentation of Seedle below to see this in action (David and I speaking)!
 
 <div align="center">
-  <a href="https://www.youtube.com/watch?v=MnX0ePaLG-I&t=1067s"> <img src="https://i.imgur.com/BBvh9uF.png" width="800"> </a>
+  <a href="https://youtu.be/MnX0ePaLG-I?t=888"> <img src="https://i.imgur.com/BBvh9uF.png" width="800"> </a>
 </div>
 
 Education
@@ -137,17 +140,17 @@ B Tech National Diploma in Art and Design
 A Levels x 3
 
 **Queen Elizabeth II School** (2002 - 2007)  
-GCSEs x 9.5 (including maths, english, and sciences)
+GCSEs x 9.5 (including Maths, English, and Sciences)
 
 
 Hobbies
 -------
 
 **Art**  
-Whilst I no longer work as a Freelance Artist, I continue to love and enjoy designing in my spare time. My preferred mediums are usually digital or with watercolours. You can have a look at some samples of my work [here](https://www.coralbakerart.com), I'm replacing this with my own website soon.
+Whilst I no longer work as a Freelance Artist, I continue to love designing in my spare time. My preferred mediums are usually digital or with watercolours. You can have a look at some samples of my work [here](https://www.coralbakerart.com), I'm replacing this with my own website soon!
 
 **Kayaking**  
-Growing up on the Isle of Man meant I had constant watersporting oppurtunities, my choice always being kayaking. When able I always jump at the chance to spend time out on the water, having recently spent time in the lake district doing just that.
+Growing up on the Isle of Man meant I had constant watersporting oppurtunities, my choice always being kayaking. When able I always jump at the chance to spend time out on the water, having recently been in the lake district doing just that.
 
 **Gaming**  
 I love a range of games for their masterful story-telling and fun mechanics, and for me is a great team activity that involves constant puzzles and quick-thinking. Here's some of my all-time favourites:
