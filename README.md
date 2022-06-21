@@ -129,19 +129,43 @@ Education
 -------
 
 **Makers Academy** (March 2022 - June 2022)  
-16-week intensive development bootcamp
+
+- Full-stack web development
+- Object-oriented design
+- Test driven development
+- Pair programming and group projects
+- Agile values and principles
+- MVC Frameworks and libraries
+- Independent learning and problem-solving
+- Databases
+- Restful APIs
+
 
 **Leeds College of Art** (2010 - 2013)  
-Foundation Degree, Digital Film, Games, and Animation
+
+- Foundation Degree, Digital Film, Games, and Animation
+- Fundementals of planning
+- Working to a tight brief within a team
+- Ability to pick up software tools such as AfterEffects and Maya
+- Perfecting an eye for visual detail
+
 
 **Isle of Man College** (2009 - 2010)  
-B Tech National Diploma in Art and Design
+
+- B Tech National Diploma in Art and Design
+- Key Skills (level 3) in Communication, Improving own Learning and Problem Solving
+- Modern fundamentals of design 
+- UX and UI design
 
 **Hemel Hempstead School** (2007 - 2009)  
-A Levels x 3
+
+- A Levels x 3
+- Presentation skills and ability to stand up and present
+- Confidence to perform
 
 **Queen Elizabeth II School** (2002 - 2007)  
-GCSEs x 9.5 (including Maths, English, and Sciences)
+
+- GCSEs x 9.5 (including Maths, English, and Sciences)
 
 
 Hobbies
