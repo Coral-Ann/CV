@@ -97,43 +97,40 @@ I have clear written and vocal communication skills; I recommend watching our de
 
 Experience
 -------
-
 <h3>MMT & Gladstone Brookes (2018-2021)</h3>
 
 ***CMS Developer***
-- Promoted to more technical role - *A display of my fast learning.*
-- Basic SQL commands - *Great for building and managing databases in any project.*
-- Testing systems - *Checking for anything our software and web developers may have missed has made me thorough and already attuned to spotting edge cases within projects.*
-- Identifying bug sources - *Requires an eye for identifying causes of bugs, proving crucial for test-driven-development and bug-fixing.*
-- System maintanence - *Tasks that varied constantly, making me adaptable and agile.*
-- Providing pseudo-code - *Well practiced in changing client requests into pseudo-code that is easily digestable for me and my team.*
-- HTML emails - *Constantly managed and editted emails, showing attention to detail and consistent styling and the ability to follow company practices.*
+- Promoted to a more technical role, a display of my fast learning.
+- Used basic SQL commands, great for building and managing databases.
+- Testing new systems for anything our software and web developers may have missed has made me thorough, attuned to spotting edge cases and prepared for test-driven development.
+- Providing pseudo-code easily digestible for my team.
+- Constantly managed and edited emails, showing attention to detail, consistent styling, and the ability to follow company practices.*
 
 ***IT Frontline Support***
-- Transferred to IT to pursue career interest - *An example of my drive and interest in the tech industry.*
-- Troubleshooting user software and hardware issues- *Patient and happy to focus on individuals and provide support and efficient solutions to move forward.*
-- Hardware and VPN setup - *Well versed in setting up and maintaining hardware and software remotely, able to work under pressure and as a team to meet very rapid deadlines (in this case, dozens of laptops due to covid)*
+- Transferred to IT to pursue career interest, an example of my drive and interest in the tech industry.
+- Troubleshooting user software and hardware issues required kindness and patience towards individuals to provide support and efficient solutions.
+- Well-versed in Hardware and VPN setup and maintaining hardware and software remotely.
 
 ***Claims Manager***
-- End-to-end case management and processing - *Managing large quantities of cases effectively, requiring strong organisational skills.*
-- Client engagement, support, and issue resolution - *Assisting clientele in a calm, friendly and patient manner.*
+- End-to-end management and processing for hundreds of cases, requiring strong organisational skills.
+- Client engagement, support, and issue resolution in a calm, friendly and patient manner.
 
 
 <h3>Dunelm LTD (2016-2018)</h3>
 
 ***Sales Consultant***
-- Client care and relationships - *Able to nurture client relationships from the beginning to end of a project, with repeat customers.*
-- Supporting Coworkers - *Sought out by coworkers for my ability to assist customers, de-escelate grievances and find alternative solutions.*
-- Networking - *Built a network within the company, great teamwork and friendships meant being able to rely and call on one another to help with client solutions around the country, from other stores to the sites where products were made.*
+- Nurture client care and relationships with repeat customers from the beginning to the end of a project.
+- Often sought out by coworkers for my ability to assist customers, de-escalate grievances and find alternative solutions.
+- Building networks within the company; great teamwork and friendships meant being able to rely on and call on one another to help with client solutions around the country, from other stores to the sites where products were made.
 
 
 <h3>Self-employed (2013-2016)</h3>
 
 ***Freelance Artist***
-- Client requests - *Ability to work exactly to a brief and understanding a clients needs, along with the skill of knowing what to ask to receive the information required to meet the client's expectations.*
-- Client choice - *Able to learn other mediums depending on the commission, the same as using new languages in development.*
-- Adaptability with drafts - *Customers can change their minds as their product is shaped. I have always been flexible to accomodate these changes.*
-- Attention to detail - *My artistry is detail-oriented, which is no different to my programming.*
+- Ability to work precisely to a brief and understand client requests and needs, along with knowing what to ask to receive the information required to meet client expectations.
+- Willingness to use other mediums depending on the commission, the same as using new languages in development.
+- Adaptability with drafts, since customers can change their minds as their product is shaped.
+- Attention to detail, which is no different to my programming.
 
 
 Education
