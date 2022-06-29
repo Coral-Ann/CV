@@ -180,13 +180,13 @@ Hobbies
 -------
 
 **Art**  
-Whilst I no longer work as a Freelance Artist, I continue design in my spare time. My preferred mediums are usually digital or with watercolours and love to build my skills by dabbling with different mediums. You can have a look at some samples of my work [here](https://www.coralbakerart.com), I'm replacing this with my own website soon!
+Whilst I no longer work as a Freelance Artist, I continue designing in my spare time. My preferred mediums are usually digital or watercolours, and I love to build my skills by dabbling with different mediums. You can look at some samples of my work [here](https://www.coralbakerart.com); I'm replacing this with my website soon!
 
 **Kayaking**  
-Growing up on the Isle of Man meant I had constant watersporting oppurtunities, my choice always being kayaking. When able I always jump at the chance to spend time out on the water, having recently been in the lake district doing just that.
+Growing up on the Isle of Man meant I had constant water sporting opportunities, my choice always being kayaking. When able, I always jump at the chance to spend time on the water, having recently been in the lake district doing just that.
 
 **Gaming**  
-I love a range of games for their masterful story-telling and fun mechanics, and for me is a great team activity that involves constant puzzles and quick-thinking. Here's some of my all-time favourites:
+I love a range of games for their masterful story-telling and fun mechanics, and for me is a great team activity that involves constant puzzles and quick thinking. Here are some of my all-time favourites:
 - Baldur's Gate
 - Bioshock
 - Portal
