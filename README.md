@@ -17,11 +17,11 @@
 About me
 -------
 
-A spirited junior developer with a background in professional design and IT, I am excited to continue my tech industry journey! I am looking forward to working in an agile team, applying my strengths and learning from others to grow my front-end and back-end development capabilities.
+A spirited junior developer with a background in professional design and IT, I am excited to continue my tech industry journey! I look forward to working in an agile team, applying my strengths and learning from others to grow my front-end and back-end development capabilities.
 
-Trained as a Freelance Artist, I intend to utilise my natural attention to detail, creativity and experience with clients to use towards coding and consultation. Throughout my time as a Claims Manager and in Tech Support I have thoroughly enjoyed working with others and supporting those around me, along with the challenge of solving problems both with clientele and software.
+Trained as a Freelance Artist, I intend to utilise my natural attention to detail, creativity and experience with clients to use in coding and consultation. Throughout my time as a Claims Manager and in Tech Support, I have thoroughly enjoyed working with others and supporting those around me, along with the challenge of solving problems with clientele and software.
 
-As a [Makers Academy](https://makers.tech/about-us/) student, I produce polished, test-driven, DRY code. I cannot wait to contribute to a range of future projects, my next personal project being a clean gallery website.
+As a [Makers Academy](https://makers.tech/about-us/) student, I produce polished, test-driven, DRY code. I am currently continuing my study of these principles by completing the [Odin Project](https://www.theodinproject.com/). 
 
 
 Tech Skills
@@ -64,20 +64,31 @@ Projects
 General Skills
 -------
 
-**Team-player**<br>
-I truly enjoy working with others, camaraderie and support are always great motivators for creating high quality projects. The Makers course led us to work on both individual and joint projects and I was comfortable with either arrangement.  My previous experience working in teams has been beneficial, with one of my strengths being the ability to ensure that others, not only the loudest voices, have the opportunity to put forward their ideas, whilst also always being willing to put forward ideas of my own, so that we identify the best solution most effectively.
+***Team-player***<br>
+I genuinely enjoy working with others; camaraderie and support are always great motivators for creating high-quality projects. The Makers course led us to work on individual and joint projects, and I was comfortable with either arrangement. One of my strengths is ensuring that everyone has the opportunity to put forward their ideas so that we identify the best solution most effectively.
 
-**Creative**<br>
-My art background is great, both for having an eye for front-end design and also for out of the box thinking when dealing with errors and bugs. As a freelance designer I created both digital and conventional art and was required to build strong relationships with my clients and in consequence understand their needs. This skill relates well to a consultancy role where I will also need to build similar relationships with clients, however instead of creating art I will be coding for them. 
+My previous experience working within a tech team has been beneficial; it was imperative that I could mediate between our team members to communicate all requests and technical issues.
 
-**Agile**<br>
-I can confidently say that Makers Academy has taught me to be open to new tech stacks and work in different ways, which makes me adaptable and flexible within working environments. As an example, I was able to learn to use React within a project in under 2 weeks. If I can do this, I know I can pick up other languages and learn them quickly to adapt to whatever is best for my clients.
 
-**Self-motivated**<br>
-Now that I have started my learning and development with coding my enthusiasm is boundless. I am eager to learn as much as possible and to continue to improve as a developer. I am excited to work on new challenges, gaining new knowledge and using my existing skills to enhance my future projects.
+***Creative***<br>
+My art background is excellent and gave me an eye for front-end design and even structuring code in a readable fashion. This skill has also allowed me to make or edit assets if needed, understand copyright, and design stylish modern web apps. Knowing how to use a given space was critical throughout my education and working within the art industry, which also applies well to the software industry for UX/UI design and code refactoring. 
 
-**Communicator**<br>
-I have clear written and vocal communication skills and understand the importance of clarity when working as a team. I recommend watching our demo day presentation of Seedle below to see this in action (David and I speaking)!
+
+***Problem-solver***<br>
+Out-of-the-box thinking has always come to me naturally and has been an aspect of work that I find incredibly fun and satisfying. I navigated a large UK-wide company to resolve customer complaints; I constantly edited commission-based changes per client requests. My work as a CMS developer involved understanding and solving system errors frequently occurring, working around software that was in place for many years and changed by multiple developers.
+
+
+***Self-motivated***<br>
+Now that I am developing and maintaining software, my enthusiasm is boundless. I am eager to learn as much as possible and continue improving as a developer. I am excited to work on new challenges, gain new knowledge and use my existing skills to enhance my future projects.
+
+I am continuing my personal development through the [Odin Project](https://www.theodinproject.com/), and I plan to use React JS to build a new art portfolio. I love that there is always something to learn within the software industry, as long as you have the motivation to do so.
+
+
+***Communicator***<br>
+As a freelance designer, I had to build strong relationships with my clients and understand their needs. This skill relates well to a consultancy role where I will also need to develop similar relationships with clients; however, instead of creating art, I will be coding for them.
+
+I have clear written and vocal communication skills; I recommend watching our demo day presentation of Seedle below to see this in action (David and I are speaking)!
+
 
 <div align="center">
   <a href="https://youtu.be/MnX0ePaLG-I?t=888"> <img src="https://i.imgur.com/BBvh9uF.png" width="800"> </a>
