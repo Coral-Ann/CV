@@ -140,7 +140,7 @@ Education
 
 - Full-stack web development
 - Object-oriented design
-- Test driven development
+- Test-driven development
 - Pair programming and group projects
 - Agile values and principles
 - MVC Frameworks and libraries
@@ -152,7 +152,7 @@ Education
 **Leeds College of Art** (2010 - 2013)  
 
 - Foundation Degree, Digital Film, Games, and Animation
-- Fundementals of planning
+- Fundamentals of planning
 - Working to a tight brief within a team
 - Ability to pick up software tools such as AfterEffects and Maya
 - Perfecting an eye for visual detail
@@ -167,7 +167,7 @@ Education
 
 **Hemel Hempstead School** (2007 - 2009)  
 
-- A Levels x 3
+- A-Levels x 3
 - Presentation skills and ability to stand up and present
 - Confidence to perform
 
