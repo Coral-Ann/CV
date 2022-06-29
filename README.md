@@ -104,7 +104,7 @@ Experience
 - Used basic SQL commands, great for building and managing databases.
 - Testing new systems for anything our software and web developers may have missed has made me thorough, attuned to spotting edge cases and prepared for test-driven development.
 - Providing pseudo-code easily digestible for my team.
-- Constantly managed and edited emails, showing attention to detail, consistent styling, and the ability to follow company practices.*
+- Constantly managed and edited emails, showing attention to detail, consistent styling, and the ability to follow company practices.
 
 ***IT Frontline Support***
 - Transferred to IT to pursue career interest, an example of my drive and interest in the tech industry.
