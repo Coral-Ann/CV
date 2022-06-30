@@ -91,7 +91,7 @@ I have clear written and vocal communication skills; I recommend watching our de
 
 
 <div align="center">
-  <a href="https://youtu.be/MnX0ePaLG-I?t=888"> <img src="https://i.imgur.com/BBvh9uF.png" width="800"> </a>
+  <a href="https://youtu.be/MnX0ePaLG-I?t=888"> <img src="https://i.imgur.com/BBvh9uF.png" width="650"> </a>
 </div>
 
 
