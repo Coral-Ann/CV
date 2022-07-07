@@ -21,7 +21,7 @@ A spirited junior developer with a background in professional design and IT, I a
 
 Trained as a Freelance Artist, I intend to utilise my natural attention to detail, creativity and experience with clients to use in coding and consultation. Throughout my time as a Claims Manager and in Tech Support, I have thoroughly enjoyed working with others and supporting those around me, along with the challenge of solving problems with clientele and software.
 
-As a [Makers Academy](https://makers.tech/about-us/) student, I produce polished, test-driven, DRY code. I am currently continuing my study of these principles by completing the [Odin Project](https://www.theodinproject.com/). 
+As a [Makers Academy](https://makers.tech/about-us/) Graduate, I produce polished, test-driven, DRY code. I am currently continuing my study of these principles by completing the [Odin Project](https://www.theodinproject.com/). 
 
 
 Tech Skills
@@ -75,7 +75,9 @@ My art background is excellent and gave me an eye for front-end design and even 
 
 
 ***Problem-solver***<br>
-Out-of-the-box thinking has always come to me naturally and has been an aspect of work that I find incredibly fun and satisfying. I navigated a large UK-wide company to resolve customer complaints; I constantly edited commission-based changes per client requests. My work as a CMS developer involved understanding and solving system errors frequently occurring, working around software that was in place for many years and changed by multiple developers.
+Out-of-the-box thinking has always come to me naturally and has been an aspect of work that I find incredibly fun and satisfying. I navigated a large UK-wide company to resolve customer complaints; I constantly edited commission-based changes per client requests. My work as a CMS developer involved understanding and solving system errors frequently occurring, working around software that was in place for many years and changed by multiple developers. 
+
+The Makers Academy Software Development course solidified my confidence with this skill by constantly pushing challenges that tested technical and logical thinking; I continuously commit similar challenges on [Github](https://github.com/Coral-Ann?tab=repositories).
 
 
 ***Self-motivated***<br>
