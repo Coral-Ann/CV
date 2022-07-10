@@ -140,42 +140,43 @@ Education
 
 **Makers Academy** (March 2022 - June 2022)  
 
-- Full-stack web development
-- Object-oriented design
-- Test-driven development
-- Pair programming and group projects
-- Agile values and principles
-- MVC Frameworks and libraries
-- Independent learning and problem-solving
-- Databases
-- Restful APIs
+- Fundamentals of object-oriented languages, Ruby and Javascript.
+- Able to write a meaningful tests (behaviour vs. state) based on the user requirements.
+- Learnt consistent debugging process to resolve issues.
+- Designed database schemas with SQL and studied the difference between table-oriented databases vs. document-based (MongoDB).
+- Deployed web applications using a light cloud service such as Heroku.
+- Pair programming and group projects using Agile values and principles.
+- Using branch/PR/merge git workflow, code reviews and Github Actions for automated testing.
+- Built single-page web applications fetching and updating remote data using JS, with and without React.
+- Independent learning and problem-solving throughout.
 
 
 **Leeds College of Art** (2010 - 2013)  
 
-- Foundation Degree, Digital Film, Games, and Animation
-- Fundamentals of planning
-- Working to a tight brief within a team
-- Ability to pick up software tools such as AfterEffects and Maya
-- Perfecting an eye for visual detail
+- Foundation Degree, Digital Film, Games, and Animation.
+- Fundamentals of planning and breaking down projects.
+- Working to strict deadlines within a team.
+- Ability to pick up software tools such as AfterEffects and Maya quickly and effectively depending on given brief.
+- Perfecting an eye for visual detail.
 
 
 **Isle of Man College** (2009 - 2010)  
 
-- B Tech National Diploma in Art and Design
-- Key Skills (level 3) in Communication, Improving own Learning and Problem Solving
-- Modern fundamentals of design 
-- UX and UI design
+- B Tech National Diploma in Art and Design.
+- Key Skills (level 3) in Communication, Improving own Learning and Problem Solving.
+- Modern fundamentals of design, understanding of composition and the importance of visual imput. 
+- UX and UI design, the ability to create digital assets that feel natural to use.
 
 **Hemel Hempstead School** (2007 - 2009)  
 
 - A-Levels x 3
-- Presentation skills and ability to stand up and present
-- Confidence to perform
+- Presentation skills and ability to stand up and present clearly and consisely to keep interest.
+- Confidence to perform, multiple stage performances.
+- Built on already self-taught knowledge of photoshop and illustrator.
 
 **Queen Elizabeth II School** (2002 - 2007)  
 
-- GCSEs x 9.5 (including Maths, English, and Sciences)
+- GCSEs x 9.5 (including Maths, English, and Sciences).
 
 
 Hobbies
