@@ -163,14 +163,14 @@ Education
 **Isle of Man College** (2009 - 2010)  
 
 - B Tech National Diploma in Art and Design.
-- Key Skills (level 3) in Communication, Improving own Learning and Problem Solving.
-- Modern fundamentals of design, understanding of composition and the importance of visual imput. 
+- Key Skills (level 3) in Communication, Improving Personal Learning and Problem Solving.
+- Modern fundamentals of design, understanding of composition and the importance of visual input. 
 - UX and UI design, the ability to create digital assets that feel natural to use.
 
 **Hemel Hempstead School** (2007 - 2009)  
 
 - A-Levels x 3
-- Presentation skills and ability to stand up and present clearly and consisely to keep interest.
+- Presentation skills and ability to stand up and present clearly and concisely to keep watchers interested.
 - Confidence to perform, multiple stage performances.
 - Built on already self-taught knowledge of photoshop and illustrator.
 
