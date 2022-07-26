@@ -21,7 +21,7 @@ A spirited junior developer with a background in professional design and IT, I a
 
 Trained as a Freelance Artist, I intend to utilise my natural attention to detail, creativity and experience with clients to use in coding and consultation. Throughout my time as a Claims Manager and in Tech Support, I have thoroughly enjoyed working with others and supporting those around me, along with the challenge of solving problems with clientele and software.
 
-As a [Makers Academy](https://makers.tech/about-us/) Graduate, I produce polished, test-driven, DRY code. I am currently continuing my study of these principles by completing the [Odin Project](https://www.theodinproject.com/). 
+As a [Makers Academy](https://makers.tech/about-us/) graduate, I produce polished, test-driven, DRY code. I am currently continuing my study of these principles by completing the [Odin Project](https://www.theodinproject.com/). 
 
 
 Tech Skills
@@ -64,10 +64,12 @@ Projects
 General Skills
 -------
 
-***Team-player***<br>
-I genuinely enjoy working with others; camaraderie and support are always great motivators for creating high-quality projects. The Makers course led us to work on individual and joint projects, and I was comfortable with either arrangement. One of my strengths is ensuring that everyone has the opportunity to put forward their ideas so that we identify the best solution most effectively.
+***Supportive Team-player***<br>
+I genuinely enjoy working with others; camaraderie and support are always great motivators for creating high-quality projects. The Makers course led us to work on individual and joint projects, and I was comfortable with either arrangement. One of my strengths is ensuring that everyone has the opportunity to put forward their ideas so that we identify the best solution most effectively. 
 
-My previous experience working within a tech team has been beneficial; it was imperative that I could mediate between our team members to communicate all requests and technical issues.
+This came into play during our [Makers Final Project](https://github.com/rupertpople/seedle), where I encouraged other quieter members to offer their thoughts and present my own. I also solidified my skills by either providing leadership or encouraging and supporting others who lead, depending on the team's needs.
+
+My previous experience working within a tech team has been beneficial, too; it was imperative that I could mediate between our team members to communicate all requests and technical issues.
 
 
 ***Creative***<br>
@@ -89,7 +91,7 @@ I am continuing my personal development through the [Odin Project](https://www.t
 ***Communicator***<br>
 As a freelance designer, I had to build strong relationships with my clients and understand their needs. This skill relates well to a consultancy role where I will also need to develop similar relationships with clients; however, instead of creating art, I will be coding for them.
 
-I have clear written and vocal communication skills; I recommend watching our demo day presentation of Seedle below to see this in action (David and I are speaking)!
+I have clear written and vocal communication skills; I recommend watching our demo day presentation of Seedle below to see this in action (David and I are speaking). Much of my early education was based on performing arts, which has proven an invaluable source of confidence and clarity for presentations and discussions.
 
 
 <div align="center">
