@@ -143,7 +143,7 @@ Education
 **Makers Academy** (March 2022 - June 2022)  
 
 - Fundamentals of object-oriented languages, Ruby and Javascript.
-- Able to write a meaningful tests (behaviour vs. state) based on the user requirements.
+- Able to write meaningful tests (behaviour vs. state) based on the user requirements.
 - Learnt consistent debugging process to resolve issues.
 - Designed database schemas with SQL and studied the difference between table-oriented databases vs. document-based (MongoDB).
 - Deployed web applications using a light cloud service such as Heroku.
