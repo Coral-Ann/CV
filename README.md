@@ -194,6 +194,7 @@ Growing up on the Isle of Man meant I had constant water sporting opportunities,
 I love a range of games for their masterful story-telling and fun mechanics, and for me is a great team activity that involves constant puzzles and quick thinking. Here are some of my all-time favourites:
 - Bioshock
 - Red Dead Redemption
+- Monkey Island
 - Baldur's Gate
 - Portal
 - Final Fantasy XIV
