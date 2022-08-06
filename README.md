@@ -185,7 +185,7 @@ Hobbies
 -------
 
 **Art**  
-Whilst I no longer work as a Freelance Artist, I continue designing in my spare time. My preferred mediums are usually digital or watercolours, and I love to build my skills by dabbling with different mediums. You can look at some samples of my work [here](https://www.coralbakerart.com); I'm replacing this with my website soon!
+Whilst I no longer work as a Freelance Artist, I continue designing in my spare time. My preferred mediums are usually digital or watercolours, and I love to build my skills by dabbling with different mediums.
 
 **Kayaking**  
 Growing up on the Isle of Man meant I had constant water sporting opportunities, my choice always being kayaking. When able, I always jump at the chance to spend time on the water, having recently been in the lake district doing just that.
