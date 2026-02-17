@@ -9,7 +9,7 @@
     <a href="https://github.com/Coral-Ann/CV/blob/main/README.md#experience">Experience</a> | 
     <a href="https://github.com/Coral-Ann/CV/blob/main/README.md#education">Education</a> | 
     <a href="https://github.com/Coral-Ann/CV/blob/main/README.md#hobbies">Hobbies</a> | 
-    <a href="https://github.com/Coral-Ann/CV/blob/main/CBakerCV-public.pdf">Résumé PDF</a>
+    <a href="https://github.com/Coral-Ann/CV/blob/main/Coral Baker-Public.pdf">Résumé PDF</a>
   </div>
 </p>
 
